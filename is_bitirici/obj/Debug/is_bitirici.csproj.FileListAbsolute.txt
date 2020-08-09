@@ -1,0 +1,9 @@
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\bin\Debug\is_bitirici.exe.config
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\bin\Debug\is_bitirici.exe
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\bin\Debug\is_bitirici.pdb
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\obj\Debug\is_bitirici.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\obj\Debug\is_bitirici.Form1.resources
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\obj\Debug\is_bitirici.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\obj\Debug\is_bitirici.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\obj\Debug\is_bitirici.exe
+C:\Users\Muhammed\Desktop\is_bitirici_program\is_bitirici\is_bitirici\obj\Debug\is_bitirici.pdb
